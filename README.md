@@ -21,3 +21,7 @@ npm install
 npm run server
 ```
 
+# NewsBlog Platform
+
+![Blogging Platform Screenshot] <img width="1881" height="860" alt="Screenshot 2025-10-18 181556" src="https://github.com/user-attachments/assets/8deacb3e-d18f-4f0b-9a2f-95c81572b7c5" />
+
